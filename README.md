@@ -2,7 +2,7 @@
 
 (Impressum is a German thing ...)
 
-Hinweise - sofern meine Dateien, die auf nicht von mir betriebenen Webseiten hochgeladen werden, ein Impressum erfordern (die hochgeladenen Dateien sind für englischsprachige Hobby-Programmierer gedacht und verfolgen keinen gewerblichen Zweck):
+Hinweise - sofern meine Dateien, die auf nicht von mir betriebenen Webseiten hochgeladen werden, ein Impressum erfordern (die hochgeladenen Dateien sind für englischsprachige Hobby-Programmierer gedacht und verfolgen keinen gewerblichen Zweck, vgl. 'gxworks' bzw. https://gxworks.github.io/dibdib):
 
 ## Angaben gemäß § 5 TMG
 
@@ -35,7 +35,7 @@ Die von mir erstellten Inhalte auf den Webseiten enthalten keine ausführbaren L
 
 ### Urheberrecht
 
-Siehe LICENSE.md auf den betreffenden Webseiten.
+Siehe LICENSE (als Datei, mit oder ohne Endungen) auf den betreffenden Webseiten.
 
 Soweit die Inhalte meiner Dateien und den betreffenden Webseiten nicht von mir erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitte ich um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werde ich derartige Inhalte umgehend entfernen.
 
