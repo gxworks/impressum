@@ -16,7 +16,7 @@ Roland Horsch
 Roland Horsch
 
 ### Kontakt
-gxworks@gmail.com
+gxworks@mail.de
 
 ### Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV
 ```
