@@ -2,12 +2,12 @@
 
 (Impressum is a German thing ...)
 
-Hinweise - sofern meine Dateien, die auf nicht von mir betriebenen Webseiten hochgeladen werden, ein Impressum erfordern (die hochgeladenen Dateien sind für englischsprachige Hobby-Programmierer gedacht und verfolgen keinen gewerblichen Zweck, vgl. 'gxworks' bzw. https://gxworks.github.io/dibdib):
+Hinweise - sofern meine Dateien, die auf nicht von mir betriebenen Webseiten hochgeladen werden, ein Impressum erfordern (die hochgeladenen Dateien sind für englischsprachige Hobby-Programmierer gedacht und verfolgen keinen gewerblichen Zweck, vgl. https://dib2x.github.io):
 
 ## Angaben gemäß § 5 TMG
 
 ```
-Roland Horsch
+Roland Horsch, Seemi. 6
 85051 Ingolstadt
 (Tel. 017626241136)
 ```
@@ -41,4 +41,4 @@ Soweit die Inhalte meiner Dateien und den betreffenden Webseiten nicht von mir e
 
 ### Datenschutz
 
-Die Nutzung der betreffenden Webseiten ist in der Regel ohne Angabe personenbezogener Daten möglich. Bei Fragen oder Problemen sind die eigentlichen Betreiber der Webseiten zu kontaktieren. Ich benutze nur die jeweiligen Funktionen zum Hochladen von Dateien und habe auf Cookies etc. keinen Einfluss. Durch die Nutzung der Webseiten erklären Sie sich mit der Bearbeitung der über Sie erhobenen Daten durch die betreffenden Firmen und Drittfirmen einverstanden.
+Die Nutzung der betreffenden Webseiten ist in der Regel ohne Angabe personenbezogener Daten möglich. Bei Fragen oder Problemen sind die eigentlichen Betreiber der Webseiten zu kontaktieren. Ich benutze nur die jeweiligen Funktionen zum Hochladen von Dateien und habe auf Cookies etc. keinen Einfluss. Durch die Nutzung der Webseiten erklären Sie sich mit der Bearbeitung der über Sie erhobenen Daten durch die betreffenden Firmen/Einrichtungen/Personen (und Drittfirmen etc.) einverstanden.
