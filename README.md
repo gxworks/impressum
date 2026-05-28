@@ -15,3 +15,5 @@ IMPRESSUM.md @ github.com/dib2x/dib2x.github.io
 oder:
 
 https://github.com/dib2x/dib2x.github.io/blob/main/IMPRESSUM.md
+
+(vgl. https://magentacloud.de/s/29EPcM7DTJSbq87)
